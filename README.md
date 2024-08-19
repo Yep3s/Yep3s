@@ -5,7 +5,7 @@
 If you wanna get in touch with me here is my email:
 - :email: Email: contactosebastianyepes@gmail.com
 
-[![Languages and Tools](https://skillicons.dev/icons?i=java,python,mysql,github)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=html,css,java,python,mysql,github)](https://skillicons.dev)
 
 
 Happy coding! 🚀
